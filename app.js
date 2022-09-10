@@ -102,6 +102,7 @@ let decrement = (id) => {
         duration: 1000,
         style: {
           background: "rgba(255, 0, 0, 0.50)",
+          i: "onclick",
         }
       }).showToast();
 };
